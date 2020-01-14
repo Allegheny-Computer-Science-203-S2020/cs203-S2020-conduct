@@ -1,7 +1,7 @@
 # cs203-S2020-conduct
 
 This repository contains the conduct guide for [Computer Science 203 Spring
-2019](https://www.gregorykapfhammer.com/teaching/cs203S2020/). The instructor
+2020](https://www.gregorykapfhammer.com/teaching/cs203S2020/). The instructor
 and students will use this conduct guide to govern all course interactions.
 
 ## Improving the Conduct Guide
