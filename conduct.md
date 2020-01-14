@@ -1,4 +1,4 @@
-# Conduct Guide for Team-Based Project Work
+# Conduct for Team-Based Software Engineering
 
 ## Assessment Key
 
