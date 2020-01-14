@@ -2,16 +2,16 @@
 
 ## Assessment Key
 
-* C = Acceptable
+* A = Acceptable
 * U = Unacceptable
 
 ## Categories of Conduct
 
+* Overall Conduct
 * Attendance
 * Deadlines
 * Communication
 * Participation
-* Conduct
 * Decisions
 * Postmortems
 * Conflicts
