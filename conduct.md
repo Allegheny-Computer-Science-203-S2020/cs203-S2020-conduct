@@ -37,16 +37,20 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 Detailed paragraph describing the category. (delete when added paragraph)
 
+When a decision is going to be made the following criteria should be considered.
+As a collective most people in a group should agree upon a given proposal before
+making the final decision.
+
 * **Acceptable Conduct (A):**
   * *Members shall*
-    * Listen to every students proposal.
-    *
-    *
+    * Ask the TAs or the Professor if you're concerned about a decision.
+    * Make decisions with all students input included.
+    * Stay flexible and be willing to change a decision if beneficials.
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-    *
-    *
+    * A team leader should not be the only one considering and making decisions.
+    * Complaints should not be made without reason, and to the professor and TAs.
     *
 
 * Postmortems
