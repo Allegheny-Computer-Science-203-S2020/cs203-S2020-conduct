@@ -39,15 +39,15 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 * **Acceptable Conduct (A):**
   * *Members shall*
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-    * Enter agreed upon rules
+    * Listen to every students proposal.
+    *
+    *
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-    * Enter agreed upon rules
+    *
+    *
+    *
 
 * Postmortems
 * Conflicts
