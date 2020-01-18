@@ -36,29 +36,31 @@ Detailed paragraph describing the category. (delete when added paragraph)
 ### Decisions
 
 A majority of people in a group should agree upon a given decision before
-it can be implemented. Decisions should be made on the basis of supporting evidence
-that show that the choice would be reasonable and productive. When a choice
-is being disputed in a group a poll can be used to make the decision with
+it can be implemented. Decisions should be made on the basis of supporting
+evidence that show that the choice would be reasonable and productive. When a
+choice is being disputed in a group a poll can be used to make the decision with
 a 3/4th majority. When unsure about making a decision you should defer to a TA
 or the professor. Before enacting a decision you should reach out to other
-groups whom the choice you made will affect. Decisions should not be
-forboding, but should unite the group to acomplish a problem together! 
+groups whom the choice you made will affect. Major decisions should be recorded
+for potential future reference. Group decisions should not be foreboding, but
+should unite the group to solve a problem together!
 
 * **Acceptable Conduct (A):**
   * *Members shall*
     * Take into account everyones input in the decision making process.
-    * Stay flexible and be willing to change if beneficial.
+    * Stay flexible and be willing to change if it would be productive.
     * Report errors or bugs to the appropriate team members.
+    * Record what decision was made and when it was implemented.
     * Defer to the Professor or teaching assistants when concerned about a decision.
     * Use online polls to reach a group consensus about a decision.
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
     * Let the team leader individually make major decisions.
-    * Make decisions without finding evidence showing that it would likely be benefitial.
+    * Make decisions without finding evidence showing that it would likely be beneficial.
     * Directly contradict the decision.
     * Refuse to work on the decided option.
-    * Make decisions that would effect another group without notifying them about it.
+    * Make decisions that would effect another group without first notifying them.
 
 * Postmortems
 * Conflicts
