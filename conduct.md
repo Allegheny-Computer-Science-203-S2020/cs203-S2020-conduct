@@ -14,11 +14,15 @@
 * Participation
 * Decisions
 * Postmortems
+
 ## Conflicts
+
 It is inevitable that conflicts will arise when working with a large group of
 people. It is essential, however, to resolve these conflict in a professional
 manner while keeping in mind the concerns of the people involved.
+
 * **Acceptable Conduct (A):**
+
   * *Members shall*
 
     * Resolve conflicts before they become severe by engaging in respectful
