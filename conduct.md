@@ -34,10 +34,11 @@ manner while keeping in mind the concerns of the people involved.
 
   * *Members shall not*
 
-    * Members shall not encourage or engage in conflicts that undermine the code
+    * Encourage or engage in conflicts that undermine the code
     of conduct
+    * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
-    * Disregard any conflict that has been brought to their attention.
+    that has been brought to their attention.
 
 * Infractions
 
