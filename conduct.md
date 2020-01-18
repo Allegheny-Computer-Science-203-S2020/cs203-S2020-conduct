@@ -35,23 +35,30 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 ### Decisions
 
-Detailed paragraph describing the category. (delete when added paragraph)
-
-When a decision is going to be made the following criteria should be considered.
-As a collective most people in a group should agree upon a given proposal before
-making the final decision.
+A majority of people in a group should agree upon a given decision before
+it can be implemented. Decisions should be made on the basis of supporting evidence
+that show that the choice would be reasonable and productive. When a choice
+is being disputed in a group an online poll can be used to make the decision with
+a simple majority. A 3/4th majority of the group must agree on a proposal in order
+for a decision to be made and implemented. If a group or team leader is unsure about 
+making a decision they should immediately defer to a TA or the professor.
 
 * **Acceptable Conduct (A):**
   * *Members shall*
-    * Ask the TAs or the Professor if you're concerned about a decision.
-    * Make decisions with all students input included.
-    * Stay flexible and be willing to change a decision if beneficials.
+    * Take into account everyones input in the decision making process.
+    * Stay flexible and be willing to change if beneficial.
+    * Report errors or bugs to the appropriate team members.
+    * Defer to the Professor or teaching assistants when concerned about a decision.
+    * Use online polls to reach a consensus about a decision.
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-    * A team leader should not be the only one considering and making decisions.
-    * Complaints should not be made without reason, and to the professor and TAs.
-    *
+    * Let the team leader individually make major decisions.
+    * Make decisions without evidence showing that it would likely be benefitial.
+    * When a decision is made you must comply and implement it based on the agreement.
+    * Directly contradict the formerly agreed upon decision.
+    * 
+    * 
 
 * Postmortems
 * Conflicts
