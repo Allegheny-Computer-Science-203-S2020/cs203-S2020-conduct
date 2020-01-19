@@ -25,14 +25,15 @@ insight in how to improve in future projects.
   * *Members shall*
     * Participate in the discussions in a respectful and courteous manner
     * Provide constructive criticism and propose solutions for issues faced
-    * Receive feedback and work on improving in the future
-    * Work together to fix any issues with the project after its launch 
+    * Receive feedback and work on improving in the future, criticism
+    is not personal
+    * Work together to fix any issues with the project after its launch
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-    * Enter agreed upon rules
+    * Insult others while presenting criticism
+    * Blame other members for any issues with the final product
+    * Refuse to collaborate in fixing remaining issues
 
 * Conflicts
 * Infractions
