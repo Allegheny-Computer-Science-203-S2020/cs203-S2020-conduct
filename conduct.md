@@ -22,9 +22,7 @@ people. It is essential, however, to resolve these conflicts in a professional
 manner while keeping in mind the concerns of the people involved.
 
 * **Acceptable Conduct (A):**
-
   * *Members shall*
-
     * Resolve conflicts before they become severe by engaging in respectful
     conversations
     * If conflicts become severe within a group of people it should be brought
@@ -33,7 +31,6 @@ manner while keeping in mind the concerns of the people involved.
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-
     * Encourage or engage in conflicts that undermine the code
     of conduct
     * Escalate existing conflicts that jeopardize the group project
