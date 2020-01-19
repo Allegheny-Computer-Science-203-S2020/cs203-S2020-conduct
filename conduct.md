@@ -30,7 +30,7 @@ manner while keeping in mind the concerns of the people involved.
     * If conflicts become severe within a group of people it should be brought
     to the attention of the project managers who will work to resolve any issues
     * Be respectful and open minded with everybody in the classroom to benefit
-    everybody.
+    everybody
 
   * *Members shall not*
 
@@ -38,7 +38,7 @@ manner while keeping in mind the concerns of the people involved.
     of conduct
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
-    that has been brought to their attention.
+    that has been brought to their attention
 
 * Infractions
 
