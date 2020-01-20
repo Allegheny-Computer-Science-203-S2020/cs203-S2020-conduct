@@ -10,6 +10,7 @@
 * Overall Conduct
 * Attendance
 * Deadlines
+
 Deadlines should be made by the team leaders of the project and there should be
 multiple deadlines before the final deadline in order to make sure that everything
 is preceding as they should
@@ -22,7 +23,7 @@ Set up a reasonable time frame for when the work will be completed leaving time
 for the rest of the lab.
 Take into consideration other people's schedules and activities as it may not
 align with yours.
-Make sure that everyone agrees on the deadlines set by their team. 
+Make sure that everyone agrees on the deadlines set by their team.
 All software project assignments completed have a specified due date, whereas the
 electronic copy must be uploaded to GitHub through the designated repository before
 the assigned deadline.
@@ -37,6 +38,7 @@ Fail to complete work before the deadlines.
 Fail to communicate reasons for work being late.
 If work is submitted after the specified deadline, the assignment will not be accepted
 and no credit will be given (unless specified otherwise).
+
 * Communication
 * Participation
 * Decisions
