@@ -15,7 +15,10 @@
 * Decisions
 * Postmortems
 * Conflicts
-* Infractions shall be defined as a penalty for violating the above Conduct Guide outline by any individual who has agreed to adhere to the Conduct Guide via digital signature below. The infractions for any individual shall be recorded and managed by the instructor.
+
+## Infractions
+
+Infractions shall be defined as a penalty for violating the above Conduct Guide outline by any individual who has agreed to adhere to the Conduct Guide via digital signature below. The infractions for any individual shall be recorded and managed by the instructor.
 
 A violation of the Conduct Guide can be defined as any behavior that is considered Unacceptable (U) for any of the above outlined (sub)sections.
 
