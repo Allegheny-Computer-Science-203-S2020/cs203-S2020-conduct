@@ -18,9 +18,14 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 * **Acceptable Conduct (A):**
   * *Members shall*
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-    * Enter agreed upon rules
+    * Must contribute when designated to, in a timely manner
+    * Quick to respond in Slack to clarify confusing issues or assist other colleagues
+    * Everyone’s opinion must be considered
+    * Willing to meetup and work outside of class
+    * Approach issues and team members with professionalism
+    * Demonstrate continuous engagement with tasks
+    * Open minded
+    * Raise a disagreeing opinion in a respectful manner
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
