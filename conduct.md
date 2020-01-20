@@ -40,6 +40,12 @@ If work is submitted after the specified deadline, the assignment will not be ac
 and no credit will be given (unless specified otherwise).
 
 * Communication
+
+Communication is such a huge part in team projects. During a project you should
+always be checking your emails and slack accounts. If something in the code or
+repository is confusing or you need help, you should contact your group. Also,
+keep your group updated on your work.
+
 * Participation
 * Decisions
 * Postmortems
