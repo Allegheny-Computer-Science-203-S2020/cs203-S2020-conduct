@@ -43,7 +43,7 @@ Detailed paragraph describing the category. (delete when added paragraph)
     * Enter agreed upon rules
     * Enter agreed upon rules
     * Enter agreed upon rules
-    
+
 * Postmortems
 * Conflicts
 * Infractions
