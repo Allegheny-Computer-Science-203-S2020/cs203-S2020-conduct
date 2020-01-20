@@ -30,7 +30,6 @@ insight in how to improve in future projects.
     is not personal
     * Work together to fix any issues with the project after its launch
 
-
 * **Unacceptable Conduct (U):**
   * *Members shall not*
     * Insult others while presenting criticism
