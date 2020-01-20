@@ -26,8 +26,7 @@ insight in how to improve in future projects.
     * Create an agenda of things that need to be reviewed and fixed
     * Participate in the discussions in a respectful and courteous manner
     * Provide constructive criticism and propose solutions for issues faced
-    * Receive feedback and work on improving in the future, criticism
-    is not personal
+    * Receive feedback and use it to improve future work
     * Work together to fix any issues with the project after its launch
 
 * **Unacceptable Conduct (U):**
