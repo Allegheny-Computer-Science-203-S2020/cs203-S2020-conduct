@@ -18,27 +18,11 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 * **Acceptable Conduct (A):**
   * *Members shall*
-    * Must contribute when designated to, in a timely manner
-    * Quick to respond in Slack to clarify confusing issues or assist other colleagues
-    * Everyone’s opinion must be considered
-    * Willing to meetup and work outside of class
-    * Approach issues and team members with professionalism
-    * Demonstrate continuous engagement with tasks
-    * Open minded
-    * Raise a disagreeing opinion in a respectful manner
-    * Show genuine commitment
+    * points
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-    * Repeated demonstration of disrespect for team members
-    * Having an inappropriate professional boundary with team members
-    * Poor participation and attitude to other opinions
-    * Patterns of poor communication or little effort for collaboration
-    * Disrupt working groups’ effectiveness by lack of collaboration
-    * Lack of insight into his or her level of competence
-    * Failure to participate in slack conversations
-    * Attempt to dominate discussion
-    * Failure to active show up to labs sessions
+    * points
 
 ### Decisions
 
