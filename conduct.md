@@ -31,8 +31,8 @@ implemented. They should be made with supporting evidence that shows
 that the choice is productive. When unsure about making a decision
 it is a good idea to defer to a technical leader or the professor. Before
 deciding you should reach out to other groups whom the choice will influence.
-Teams will determine how long a decision will take to implement. Group decisions won't be
-foreboding, but should unite the group to solve a problem together!
+Teams will determine how long a decision will take to implement. Group decisions
+won't be foreboding, but should unite the group to solve a problem together!
 
 * **Acceptable Conduct (A):**
   * *Members shall*
