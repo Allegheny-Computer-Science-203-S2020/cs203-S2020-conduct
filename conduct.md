@@ -35,15 +35,8 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 ### Decisions
 
-A majority of people in a group should agree upon a given decision before
-it can be implemented. Decisions should be made on the basis of supporting
-evidence that show that the choice would be reasonable and productive. When a
-choice is being disputed in a group a poll can be used to make the decision with
-a 3/4th majority. When unsure about making a decision you should defer to a TA
-or the professor. Before enacting a decision you should reach out to other
-groups whom the choice you made will affect. Major decisions should be recorded
-for potential future reference. Group decisions should not be foreboding, but
-should unite the group to solve a problem together!
+A majority of people in a group should agree upon a given decision before it can be implemented. Decisions should be made on the basis of supporting evidence that show that the choice would be reasonable and productive. When a choice is being disputed in a group a poll can be used to make the decision with a 3/4th majority. When unsure about making a decision you should defer to a TA or the professor. Before enacting a decision you should reach out to other groups whom the choice you made will affect.
+Major decisions should be recorded for potential future reference. Teams should determine how long a decision will take to implement. If it is unreasonably over the amount of time it was predicted to take with no end in sight, it should be terminated and a new approach should be pursued. Group decisions should not be foreboding, but should unite the group to solve a problem together!
 
 * **Acceptable Conduct (A):**
   * *Members shall*
@@ -53,6 +46,8 @@ should unite the group to solve a problem together!
     * Record what decision was made and when it was implemented.
     * Defer to the Professor or teaching assistants when concerned about a decision.
     * Use online polls to reach a group consensus about a decision.
+    * Team members should decide the priority of the issue using a "URGENT" tag.
+    * Delegate tasks to all group members.
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
