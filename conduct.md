@@ -28,9 +28,8 @@ Higher number of past infractions would cause a higher level infraction and thus
 a more severe penalty.
 
 This guideline for infractions is separate from the Allegheny College Honor code guidelines.
-While the Honor Code involves all student in Allegheny College and is enforced by the college's honor committee,
- this code of conduct only includes members
- of the Software Engineering Class for the Spring semester of 2020.
+While the Honor Code involves all student in Allegheny College and is enforced by the college's honor committee, this code of conduct only includes members
+of the Software Engineering Class for the Spring semester of 2020.
 
 * *Infractions shall be imposed at three different levels of severity:*
   * __Level I__: Any violation of a code of conduct rule is by default a Level I
@@ -52,8 +51,7 @@ While the Honor Code involves all student in Allegheny College and is enforced b
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe and friendly environment.
 Class member(s) may appeal any infraction
-to the instructor of the class. Any decision made by the instructor for the given
-infraction(s) will be final.
+to the instructor of the class. Any decision made by the instructor for the given infraction(s) will be final.
 
 
 ## Names of Individuals who Agree to Adhere to the Guide
