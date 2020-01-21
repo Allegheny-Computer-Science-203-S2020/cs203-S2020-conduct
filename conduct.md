@@ -36,17 +36,17 @@ includes members of the Software Engineering Class for the Spring semester
 of 2020.
 
 * *Infractions shall be imposed at three different levels of severity:*
-  * __Level I__: Any violation of a code of conduct rule is by default a Level I
+  * Level I: Any violation of a code of conduct rule is by default a Level I
   infraction. Technical leaders and instructor will be
   keeping track of infractions.
    A level I infraction is simply a warning to avoid
   misconduct.
-  * __Level II__:Upon the accumulation of three level I infractions, project
+  * Level II:Upon the accumulation of three level I infractions, project
   managers and the instructor will issue a formal level II infraction.
   Once such infraction is issued, the person involved must meet with
   the instructor and technical leaders to develop a plan to prevent
   future infractions. Refusal to meet would cause a level III infraction.
-  * __Level III__: A Level III infraction will be given to an individual who has
+  * Level III A Level III infraction will be given to an individual who has
   accumulated five Level I infractions. Upon obtaining a Level III infraction,
   the individual will be docked 15% of their grade for the current project.
   A level III infraction will also occur when the person involves fails  to
