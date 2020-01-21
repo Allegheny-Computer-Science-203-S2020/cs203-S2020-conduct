@@ -21,8 +21,8 @@ project after its launch. Through postmortems we can look at what was successful
 and what failed and needs improvement. These discussions also provide great
 insight in how to improve in future projects.
 
-* **Acceptable Conduct (A):**
-  * *Members shall*
+* Acceptable Conduct (A):
+  * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of
     the project
     * Come up with different approaches to solve issues with the project
@@ -32,8 +32,8 @@ insight in how to improve in future projects.
     * Receive feedback and discuss how it could be used to improve
     future projects and assignments
 
-* **Unacceptable Conduct (U):**
-  * *Members shall not*
+* Unacceptable Conduct (U):
+  * Members shall not
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues
