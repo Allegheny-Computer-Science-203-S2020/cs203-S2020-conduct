@@ -14,14 +14,16 @@
   * *Members shall*
     * Show respect for all peers as learners and team-members
     * Allow peers to voice their opinions and questions
-    *
+    * Read, understand, and follow all parts of this code of Conduct
+    * Follow the honor code on all submitted work
 
 * **Unacceptable Conduct (U):**
 
   * *Members shall not*
     * Disrespect peers because of their race or gender
-    * Violate any of the other following categories in the Code of Conduct
-    *
+    * Prevent peers from voicing their opinions and questions
+    * Violate any part of this Code of Conduct
+    * Violate the Allegheny honor code in regards to all submitted work
 
 * Attendance
 * Deadlines
