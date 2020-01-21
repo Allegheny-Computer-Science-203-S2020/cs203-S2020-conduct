@@ -9,19 +9,18 @@
 
 * Overall Conduct
 
-  This section defines how each team-member should and should-not act while
+  This section defines how each team member should and should not act while
   working on a project which this Code of Conduct is a part of. Everyone is
   required to adhere to not only this section, but also the following eight
-  sections of this Code of Conduct. Respect, not only for everyone regardless of
-  race and gender, but also for everyone as learners and fellow team members is
-  mandatory. This is a project in which team-members have different skillsets
-  and different levels of mastery in those skills, and disrespecting or shunning
-  a team member for lack of knowledge violates this Code of Conduct. Viewing and
-  using other people's work is a core part of learning  how to code effectively,
-  yet when used irresponsibly (such as directly copying another peer's work
-  without their permission or without crediting them) such code will negatively
-  impact a project's success. Therefore, member's of this project should adhere
-  to Allegheny's honor code for all submitted work.
+  sections of this Code of Conduct. Most important in this section is that
+  members respect their peers, regardless of race or gender, as learners. This
+  is a project in which team members have different skillsets and different
+  levels of mastery in those skills, and disrespecting or shunning a team member
+  for lack of knowledge violates this Code of Conduct. Viewing and using other people's work is a core part of learning  how to code effectively, yet when used irresponsibly (such
+  as directly copying another peer's work without their permission or without
+  crediting them) such code will negatively impact a project's success.
+  Therefore, members of this project should adhere to Allegheny's honor code for
+  all submitted work.
 
 * **Acceptable Conduct (A):**
 
