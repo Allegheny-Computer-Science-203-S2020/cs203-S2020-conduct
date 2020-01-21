@@ -11,18 +11,7 @@
 * Attendance
 * Deadlines
 * Communication
-
-### Participation
-
-Detailed paragraph describing the category. (delete when added paragraph)
-
-* **Acceptable Conduct (A):**
-  * *Members shall*
-    * points
-
-* **Unacceptable Conduct (U):**
-  * *Members shall not*
-    * points
+* Participation
 
 ### Decisions
 
