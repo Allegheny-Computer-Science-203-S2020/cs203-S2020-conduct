@@ -18,11 +18,14 @@
 
 ## Infractions
 
-An infraction occurs when class member(s) violate the agreed rules present in the code of conduct. Any action that is considered "Unacceptable" will cause an
+An infraction occurs when class member(s) violate the agreed
+rules present in the code of conduct. Any action
+that is considered "Unacceptable" will cause an
 infraction. Class member(s) should avoid infractions since the accumulation of
 them would cause penalties and hinder the progress of the project.
 
-The severity of the infraction is determined by the number of previous infractions.
+The severity of the infraction is determined by the number of
+previous infractions.
 Higher number of past infractions would cause a higher level infraction and thus
 a more severe penalty.
 
