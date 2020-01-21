@@ -16,11 +16,12 @@
   members respect their peers, regardless of race or gender, as learners. This
   is a project in which team members have different skillsets and different
   levels of mastery in those skills, and disrespecting or shunning a team member
-  for lack of knowledge violates this Code of Conduct. Viewing and using other people's work is a core part of learning  how to code effectively, yet when used irresponsibly (such
-  as directly copying another peer's work without their permission or without
-  crediting them) such code will negatively impact a project's success.
-  Therefore, members of this project should adhere to Allegheny's honor code for
-  all submitted work.
+  for lack of knowledge violates this Code of Conduct. Viewing and using other
+  people's work is a core part of learning  how to code effectively, yet when
+  used irresponsibly (such as directly copying another peer's work without their
+  permission or without crediting them) such code will negatively impact a
+  project's success. Therefore, members of this project should adhere to
+  Allegheny's honor code for all submitted work.
 
 * **Acceptable Conduct (A):**
 
