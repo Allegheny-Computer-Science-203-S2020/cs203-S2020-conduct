@@ -17,7 +17,9 @@
 
 ## Conflicts
 
-It is inevitable that conflicts will arise when working as a large group of software engineers. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
+It is inevitable that conflicts will arise when working as a large group of
+software engineers. It is essential, however, to resolve these conflicts in a
+professional manner while keeping in mind the concerns of everyone involved.
 
 * **Acceptable Conduct (A):**
   * *Members shall*
