@@ -26,7 +26,7 @@
 * **Acceptable Conduct (A):**
 
   * *Members shall*
-    * Show respect for all peers as learners and team-members
+    * Show respect for all peers as learners and team members
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
