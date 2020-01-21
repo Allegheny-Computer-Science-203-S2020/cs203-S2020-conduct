@@ -25,22 +25,22 @@ but should unite the team to solve a problem together!
 
 * **Acceptable Conduct (A):**
   * *Members shall*
-    * Take into account everyone's input in the decision making process.
-    * Stay flexible and be willing to change if it would be productive.
-    * Report errors or bugs to the appropriate team members.
-    * Record what choice was made and when it was implemented.
-    * Defer to the Professor or student technical leaders when unsure.
-    * Distribute tasks to all team members.
-    * A new decision should be made when a previous decision cannot be implemented.
-    * When a choice is disputed, use a slack poll using the extension Polly.
+    * Take into account everyone's input in the decision making process
+    * Stay flexible and be willing to change if it would be productive
+    * Report errors or bugs to the appropriate team members
+    * Record what choice was made and when it was implemented
+    * Defer to the Professor or student technical leaders when unsure
+    * Distribute tasks to all team members
+    * A new decision should be made when a previous decision cannot be implemented
+    * When a choice is disputed, use a slack poll using the extension Polly
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-    * Let an individual team member or leader make major decisions.
-    * Make decisions without finding evidence showing that it would likely be beneficial.
-    * Directly contradict the decision.
-    * Refuse to work on the decided option.
-    * Make decisions that would affect another team without first notifying them.
+    * Let an individual team member or leader make major decisions
+    * Make decisions without finding evidence showing that it would likely be beneficial
+    * Directly contradict the decision
+    * Refuse to work on the decided option
+    * Make decisions that would affect another team without first notifying them
 
 * Postmortems
 * Conflicts
