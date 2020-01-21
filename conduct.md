@@ -26,6 +26,7 @@ Detailed paragraph describing the category. (delete when added paragraph)
     * Demonstrate continuous engagement with tasks
     * Open minded
     * Raise a disagreeing opinion in a respectful manner
+    * Show genuine commitment
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
@@ -35,6 +36,9 @@ Detailed paragraph describing the category. (delete when added paragraph)
     * Patterns of poor communication or little effort for collaboration
     * Disrupt working groups’ effectiveness by lack of collaboration
     * Lack of insight into his or her level of competence
+    * Failure to participate in slack conversations
+    * Attempt to dominate discussion
+    * Failure to active show up to labs sessions
 
 ### Decisions
 
