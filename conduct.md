@@ -44,22 +44,7 @@ truly be all there.
     * Attempt to dominate a lab discussions
     * No show in lab sessions without the consent of the professor
 
-### Decisions
-
-Detailed paragraph describing the category. (delete when added paragraph)
-
-* **Acceptable Conduct (A):**
-  * *Members shall*
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-
-* **Unacceptable Conduct (U):**
-  * *Members shall not*
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-
+* Decisions
 * Postmortems
 * Conflicts
 * Infractions
