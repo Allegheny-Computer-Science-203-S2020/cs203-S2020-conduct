@@ -14,10 +14,12 @@
 
 ### Participation
 
-Every team member needs to be actively and cooperatively involved with the projects at hand. This will ensure
-the flow of questions, ideas, and thoughts in a respectful manner. Our project at its root
-includes participation, candidness and insightful collaboration. Participating in project discussion means
-engaging in conversation, not just answering questions. The goal here is to show up and truly be all there.
+Every team member needs to be actively and cooperatively involved with the
+projects at hand. This will ensure the flow of questions, ideas, and thoughts
+in a respectful manner. Our project at its root includes participation, candidness
+and insightful collaboration. Participating in project discussion means engaging
+in conversation, not just answering questions. The goal here is to show up and
+truly be all there.
 
 * **Acceptable Conduct (A):**
   * *Members shall*
