@@ -23,11 +23,14 @@ insight in how to improve in future projects.
 
 * **Acceptable Conduct (A):**
   * *Members shall*
-    * Create an agenda of things that need to be reviewed and fixed
+    * Work as a team to create a postmortem plan to review and fix sections of
+    the project
+    * Come up with different approaches to solve issues with the project
     * Participate in the discussions in a respectful and courteous manner
-    * Provide constructive criticism and propose solutions for issues faced
-    * Receive feedback and use it to improve future work
-    * Work together to fix any issues with the project after its launch
+    while adhering to the communications section of the code of conduct
+    * Provide constructive feedback and propose solutions for issues faced
+    * Receive feedback and discuss how it could be used to improve
+    future projects and assignments
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
