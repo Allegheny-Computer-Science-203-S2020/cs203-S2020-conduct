@@ -7,7 +7,7 @@
 
 ## Categories of Conduct
 
-### Overall Conduct
+## Overall Conduct
 
   This section defines how each team member should and should not act while
   working on a project which this Code of Conduct is a part of. Everyone is
