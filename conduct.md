@@ -15,13 +15,12 @@
 
 ### Decisions
 
-The majority of people in a team should agree upon a given decision before it's
-implemented. It should be made with supporting evidence that shows
+The majority of people in a team should agree upon a given decision before the
+software is implemented. It should be made with supporting evidence that shows
 that the decision is productive. When unsure about making a decision
 it is a good idea to defer to a technical leader or the professor. One should
 reach out to other teams whom the choice will influence. Teams will determine
-how long a decision will take to implement. Team decisions shouldn't be foreboding,
-but should unite the team to solve a problem together!
+how long a decision will take to implement.
 
 * Acceptable Conduct (A):
   * Members shall
@@ -32,7 +31,8 @@ but should unite the team to solve a problem together!
     * Defer to the Professor or student technical leaders when unsure
     * Distribute tasks to all team members
     * A new decision should be made when a previous decision cannot be implemented
-    * When a choice is disputed, use a slack poll using the extension Polly
+    * When a choice is disputed, use Github issue tracker and let team members
+      share their opinion
 
 * Unacceptable Conduct (U):
   * Members shall not
