@@ -15,7 +15,7 @@
 
 ### Decisions
 
-3/4th of people in a team should agree upon a given decision before it's
+The majority of people in a team should agree upon a given decision before it's
 implemented. It should be made with supporting evidence that shows
 that the decision is productive. When unsure about making a decision
 it is a good idea to defer to a technical leader or the professor. One should
