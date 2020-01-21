@@ -18,8 +18,7 @@
 
 ## Infractions
 
-An infraction occurs when class member(s) violate agreed rules present in
-the code of conduct. Any action that is considered "Unacceptable" will cause an
+An infraction occurs when class member(s) violate the agreed rules present in the code of conduct. Any action that is considered "Unacceptable" will cause an
 infraction. Class member(s) should avoid infractions since the accumulation of
 them would cause penalties and hinder the progress of the project.
 
@@ -29,7 +28,7 @@ a more severe penalty.
 
 This guideline for infractions is separate from the Allegheny College Honor code
 guidelines. While the Honor Code involves all student in Allegheny College and
-is enforced by the college's honor committee, this code of conduct only
+is enforced by the college's Honor Committee, this code of conduct only
 includes members of the Software Engineering Class for the Spring semester
 of 2020.
 
