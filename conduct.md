@@ -29,9 +29,12 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
-    * Enter agreed upon rules
-    * Enter agreed upon rules
-    * Enter agreed upon rules
+    * Repeated demonstration of disrespect for team members
+    * Having an inappropriate professional boundary with team members
+    * Poor participation and attitude to other opinions
+    * Patterns of poor communication or little effort for collaboration
+    * Disrupt working groups’ effectiveness by lack of collaboration
+    * Lack of insight into his or her level of competence
 
 ### Decisions
 
