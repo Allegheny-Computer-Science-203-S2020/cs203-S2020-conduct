@@ -21,8 +21,8 @@ and insightful collaboration. Participating in project discussion means engaging
 in conversation, not just answering questions. The goal here is to show up and
 truly be all there.
 
-* **Acceptable Conduct (A):**
-  * *Members shall*
+* Acceptable Conduct (A):
+  * Members shall
     * Respond quickly in Slack to clarify confusing issues or assist other colleagues
     * Value and consider everyone’s opinion
     * Be willing to meetup and work outside of class
@@ -31,8 +31,8 @@ truly be all there.
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
 
-* **Unacceptable Conduct (U):**
-  * *Members shall not*
+* Unacceptable Conduct (U):
+  * Members shall not
     * Demonstrate disrespect for team members
     * Have an inappropriate professional boundary with team members
     * Show poor participation and attitude to their lab delegated tasks
