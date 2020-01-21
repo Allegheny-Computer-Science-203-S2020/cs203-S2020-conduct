@@ -37,7 +37,8 @@ truly be all there.
     * Demonstration of disrespect for team members
     * Having an inappropriate professional boundary with team members
     * Poor participation and attitude to their lab delegated tasks
-    * Patterns of poor communication or little effort for collaboration in lab and Slack
+    * Patterns of poor communication or little effort for
+    collaboration in lab and Slack
     * Disrupt working groups’ effectiveness by lack of collaboration
     * Lack of insight into his or her level of competence
     * Attempt to dominate a lab discussions
