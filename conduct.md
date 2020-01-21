@@ -17,17 +17,23 @@
 
 ## Conflicts
 
-It is inevitable that conflicts will arise when working with a large group of
-people. It is essential, however, to resolve these conflicts in a professional
-manner while keeping in mind the concerns of the people involved.
+It is inevitable that conflicts will arise when working as a large group of software engineers. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
 
 * **Acceptable Conduct (A):**
   * *Members shall*
     * Resolve conflicts before they become severe by engaging in respectful
     conversations
-    * If conflicts become severe within a group of people it should be brought
+    * If conflicts become severe within class members, they should be brought
     to the attention of the project managers who will work to resolve any issues
-    * Be respectful and open-minded with everybody in the classroom
+    * Project managers and the instructor are responsible for resolving any
+    issues by proposing solutions to reach a compromise between
+    class members involved
+    * Project managers may reassign different tasks to group members to solve a
+    conflict
+    * Project managers and the instructor have a final say in how conflicts
+    should be resolved
+    * Be respectful and open-minded with everybody in the classroom when
+    encountering a conflict
 
 * **Unacceptable Conduct (U):**
   * *Members shall not*
