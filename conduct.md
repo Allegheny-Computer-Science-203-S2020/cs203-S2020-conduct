@@ -23,8 +23,8 @@ reach out to other teams whom the choice will influence. Teams will determine
 how long a decision will take to implement. Team decisions shouldn't be foreboding,
 but should unite the team to solve a problem together!
 
-* **Acceptable Conduct (A):**
-  * *Members shall*
+* Acceptable Conduct (A):
+  * Members shall
     * Take into account everyone's input in the decision making process
     * Stay flexible and be willing to change if it would be productive
     * Report errors or bugs to the appropriate team members
@@ -34,8 +34,8 @@ but should unite the team to solve a problem together!
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use a slack poll using the extension Polly
 
-* **Unacceptable Conduct (U):**
-  * *Members shall not*
+* Unacceptable Conduct (U):
+  * Members shall not
     * Let an individual team member or leader make major decisions
     * Make decisions without finding evidence showing that it would likely be beneficial
     * Directly contradict the decision
