@@ -18,6 +18,7 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 * **Acceptable Conduct (A):**
   * *Members shall*
+<<<<<<< HEAD
     * Must contribute when designated to, in a timely manner
     * Quick to respond in Slack to clarify confusing issues or assist other colleagues
     * Everyone’s opinion must be considered
@@ -39,6 +40,13 @@ Detailed paragraph describing the category. (delete when added paragraph)
     * Failure to participate in slack conversations
     * Attempt to dominate discussion
     * Failure to active show up to labs sessions
+=======
+    * Points here
+
+* **Unacceptable Conduct (U):**
+  * *Members shall not*
+    * Points here
+>>>>>>> 671d5db1bfc77c04ed60972d0afbee71bf7e2d98
 
 ### Decisions
 
