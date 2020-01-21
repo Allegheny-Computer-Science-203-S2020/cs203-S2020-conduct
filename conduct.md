@@ -12,7 +12,7 @@
 * Deadlines
 * Communication
 
-### Participation
+## Participation
 
 Every team member needs to be actively and cooperatively involved with the
 projects at hand. This will ensure the flow of questions, ideas, and thoughts
