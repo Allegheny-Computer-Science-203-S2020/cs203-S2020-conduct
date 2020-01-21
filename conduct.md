@@ -35,12 +35,12 @@ Detailed paragraph describing the category. (delete when added paragraph)
 
 ### Decisions
 
-A majority of people in a group should agree upon a given decision before it can be
+A majority of people in a group should agree upon a given decision before it's
 implemented. Decisions should be made on the basis of supporting evidence that show
 that the choice would be reasonable and productive. When unsure about making a decision
 it is a good idea to defer to a TA or the professor. Before enacting a decision you
-should reach out to other groups whom the choice you made will affect. Teams should
-determine how long a decision will take to implement. Group decisions should not be
+should reach out to other groups whom the choice you made will affect. Teams will
+determine how long a decision will take to implement. Group decisions won't be
 foreboding, but should unite the group to solve a problem together!
 
 * **Acceptable Conduct (A):**
