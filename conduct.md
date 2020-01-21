@@ -13,7 +13,7 @@
 * Communication
 * Participation
 
-### Decisions
+## Decisions
 
 The majority of people in a team should agree upon a given decision before the
 software is implemented. It should be made with supporting evidence that shows
