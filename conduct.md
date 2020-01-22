@@ -23,17 +23,17 @@
   project's success. Therefore, members of this project should adhere to
   Allegheny's honor code for all submitted work.
 
-* **Acceptable Conduct (A):**
+* Acceptable Conduct (A):
 
-  * *Members shall*
+  * Members shall
     * Show respect for all peers as learners and team members
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
 
-* **Unacceptable Conduct (U):**
+* Unacceptable Conduct (U):
 
-  * *Members shall not*
+  * Members shall not
     * Disrespect peers because of their race or gender
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
