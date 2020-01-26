@@ -24,7 +24,6 @@
   Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
-
   * Members shall
     * Show respect for all peers as learners and team members
     * Allow peers to voice their opinions and questions
@@ -32,7 +31,6 @@
     * Follow the honor code on all submitted work
 
 * Unacceptable Conduct (U):
-
   * Members shall not
     * Disrespect peers because of their race or gender
     * Prevent peers from voicing their opinions and questions
