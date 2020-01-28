@@ -49,11 +49,11 @@
       GitHub flow model.
 * Unacceptable Conduct (U):
   * Team Members shall not
-     * Rarely communicate in person or electronically
-     * Frequently use inappropriate forums such as text messaging or
-       using slack instead  of GitHub issues tracker.
-     * Rarely engage in the discussion and review portion of the GitHub
-       flow model.
+    * Rarely communicate in person or electronically
+    * Frequently use inappropriate forums such as text messaging or
+      using slack instead  of GitHub issues tracker.
+    * Rarely engage in the discussion and review portion of the GitHub
+      flow model.
 
 ## Participation
 
