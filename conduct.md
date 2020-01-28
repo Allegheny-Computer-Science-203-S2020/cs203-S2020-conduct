@@ -41,6 +41,28 @@
 * Deadlines
 * Communication
 
+This section defines what communication is acceptable and unacceptable.
+It is vital that team members not only communicate clearly, but
+communicate using the right platforms and methods, such as GitHub
+issues tracker or slack. For example, something may be clearly
+communicated in Slack, but may still receive an 'unacceptable' because
+Slack was the inappropriate platform to use.
+
+* Acceptable Conduct (A):
+  * Team Members shall
+    * Effectively communicate electronically and in person
+    * Use appropriate softwares for electronic communication
+    * Always participate in the discussion and review portion of the
+      GitHub flow model.
+
+* Unacceptable Conduct (U):
+  * Team Members shall not
+    * Rarely communicate in person or electronically
+    * Frequently use inappropriate forums such as text messaging or
+      using slack instead  of GitHub issues tracker.
+    * Rarely engage in the discussion and review portion of the GitHub
+      flow model.
+
 ## Participation
 
 Every team member needs to be actively and cooperatively involved with the
