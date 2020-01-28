@@ -18,6 +18,7 @@
       * Use appropriate softwares for electronic communication
       * Always participate in the discussion and review portion of the
         GitHub flow model.
+
   * Unacceptable Conduct (U):
     * Team Members shall not
        * Rarely communicate in person or electronically
