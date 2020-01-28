@@ -12,13 +12,19 @@
 * Deadlines
 * Communication
 
-  * A = Team member effectively communicates electronically and in person, using
-    appropriate softwares for electronic communication and always participates in
-    the discussion and review portion of the GitHub flow model.
-  * U = Team member rarely communicates in person or electronically, frequently
-    using inappropriate forums such as text messaging or using slack instead of
-    GitHub issues tracker. Team member also rarely engages in the discussion and
-    review portion of the GitHub flow model.
+  * Acceptable Conduct (A):
+    * Team Members shall
+      * Effectively communicate electronically and in person
+      * Use appropriate softwares for electronic communication
+      * Always participate in the discussion and review portion of the
+        GitHub flow model.
+  * Unacceptable Conduct (U):
+    * Team Members shall not
+       * Rarely communicate in person or electronically
+       * Frequently use inappropriate forums such as text messaging or
+         using slack instead  of GitHub issues tracker.
+       * Rarely engage in the discussion and review portion of the GitHub
+         flow model.
 
 * Participation
 * Decisions
