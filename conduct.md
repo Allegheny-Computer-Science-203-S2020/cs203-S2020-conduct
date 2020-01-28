@@ -46,7 +46,7 @@ It is vital that team members not only communicate clearly, but
 communicate using the right platforms and methods, such as GitHub
 issues tracker or slack. For example, something may be clearly
 communicated in Slack, but may still receive an 'unacceptable' because
-Slack was the inappropriate platform to use. 
+Slack was the inappropriate platform to use.
 
 * Acceptable Conduct (A):
   * Team Members shall
